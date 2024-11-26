@@ -22,12 +22,11 @@ repository               : "tomrannosaurus/tomrannosaurus.github.io"
 author:
   # Biographic information
   avatar           : "1929334_1005936640048_3416_n.jpg"
-  name             : "Thomas (Tom) B. Arnold"
-  nickname         : "Tom"
-  pronouns         : # example: "she/her"  
+  name             : "Thomas B. Arnold"
+  pronouns         : "(Tom)"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Providence, R.I."
-  employer         : "Uniformed Services University"
+  employer         : "Brown University & Uniformed Services University of the Health Sciences"
   uri              : # URL
   email            : "none@example.org" 
 
