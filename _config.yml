@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hello World"
+title                    : "print("Hello, World!")"
 title_separator          : "-"
 name                     : &name "Thomas B. Arnold"
 description              : &description "personal description"
