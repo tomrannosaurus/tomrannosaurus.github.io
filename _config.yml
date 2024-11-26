@@ -23,8 +23,9 @@ author:
   # Biographic information
   avatar           : "1929334_1005936640048_3416_n.jpg"
   name             : "Thomas B. Arnold"
-  pronouns         : "Prefered Name: Tom"  
-  bio              : "Short biography for the left-hand sidebar"
+  nickname         : "Prefered Name: Tom"  
+  pronouns         : #"ex:"  
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Providence, R.I."
   employer         : "USUHS"
   university       : "Brown University"
