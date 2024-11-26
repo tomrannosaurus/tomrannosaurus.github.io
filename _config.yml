@@ -26,7 +26,8 @@ author:
   pronouns         : "(Tom)"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Providence, R.I."
-  employer         : "Brown University & Uniformed Services University of the Health Sciences"
+  employer         : "USUHS"
+  university       : "Brown University"
   uri              : # URL
   email            : "none@example.org" 
 
