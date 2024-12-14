@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 ## Education
 
 * **Sc.M. in Biostatistics**, Brown University, 2025 (expected)
