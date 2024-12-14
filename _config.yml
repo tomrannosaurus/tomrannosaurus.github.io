@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "1929334_1005936640048_3416_n.jpg"
   name             : "Thomas B. Arnold"
-  nickname         : "Prefered Name: Tom"  
+  nickname         : #"Prefered Name: Tom"  
   pronouns         : #"ex:"  
   bio              : "Hello, World! I'm Tom, and this is what I'm all about."
   location         : "Providence, R.I."
