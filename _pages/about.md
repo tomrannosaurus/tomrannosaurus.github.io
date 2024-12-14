@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 -----------------------
 
-### Education
+# Education
 
 * Sc.M. in Biostatistics, Brown University, 2025 (expected)
 * B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2012
