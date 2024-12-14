@@ -1,6 +1,6 @@
 ---
 title: "Lasso Analysis of Smoking Cessation Predictors"
-excerpt: "Analysis of smoking cessation outcomes using regularized regression and resampling methods<br/><img src='/images/smoking-analysis.png'>"
+excerpt: "<img src='/images/smoking-analysis.png'><br/>Analysis of smoking cessation outcomes using regularized regression and resampling methods"
 collection: portfolio
 ---
 
