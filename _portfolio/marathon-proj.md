@@ -1,6 +1,6 @@
 ---
 title: "Marathon Performance Analysis"
-excerpt: "Analysis of environmental impacts on marathon performance across age and gender<br/><img src='/images/marathon-analysis.png' style="border-radius:50%">"
+excerpt: "Analysis of environmental impacts on marathon performance across age and gender<br/><img src='/images/marathon-analysis.png'>"
 collection: portfolio
 ---
 
