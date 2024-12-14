@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Cluster RCT Design Optimization"
+excerpt: "Simulation study optimizing cluster randomized trial designs through cost-benefit analysis<br/><img src='/images/cluster-simulation.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This simulation study investigates optimal design choices in cluster randomized controlled trials (cRCTs) under budget constraints. Using parallel computing and statistical modeling in R, I investigated how to optimize the tradeoff between number of clusters and cluster size when factors like cost ratios, between-cluster variance, and within-cluster variance vary. The analysis revealed that while optimal designs are primarily driven by cost ratios between adding clusters versus increasing cluster size, variance components influence designs in unexpectedly complex ways. The study implemented both univariate sensitivity analyses and full factorial designs for both normal and Poisson outcomes, employing the ADEMP framework in simulation design. 
+
+Keywords: Academic project, Simulation study, Hierarchical modeling
+
+[View project on GitHub](https://github.com/tomrannosaurus/cluster_RCT_sim)​​​​​​​​​​​​​​​​
