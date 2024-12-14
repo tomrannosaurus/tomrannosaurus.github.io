@@ -1,6 +1,6 @@
 ---
 title: "Cluster RCT Design Optimization"
-excerpt: "<img src='/images/cluster-simulation.png'></br><br/>Simulation study optimizing cluster randomized trial designs through cost-benefit analysis"
+excerpt: "<img src='/images/cluster-simulation.png'></br></br>Simulation study optimizing cluster randomized trial designs through cost-benefit analysis"
 collection: portfolio
 ---
 
