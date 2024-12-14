@@ -16,8 +16,9 @@ redirect_from:
 * Sc.M. in Biostatistics, Brown University, 2025 (expected)
 * B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2012
 
-Current Employment
-======
+### Current Employment
+
+
 * Lead Data Scientist
   * Military Cardiovascular Outcomes Research (MiCOR), Uniformed Services University of the Health Sciences (USUHS) - Bethesda, MD
   * 2021-Present
