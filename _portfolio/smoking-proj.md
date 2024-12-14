@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Lasso Analysis of Smoking Cessation Predictors"
+excerpt: "Analysis of smoking cessation outcomes using regularized regression and resampling methods<br/><img src='/images/smoking-analysis.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project implements advanced regularization techniques to analyze smoking cessation outcomes among individuals with major depressive disorder. Using data from a 2x2 factorial clinical trial (n=300), I employed Lasso regression with bootstrap confidence intervals to identify key predictors of successful smoking cessation and potential treatment effect moderators. The analysis revealed that nicotine dependence scores and nicotine metabolism rates significantly predict cessation success, while validating varenicline's effectiveness as a cessation aid. Implemented in R using glmnet, mice, and custom functions for model diagnostics, this project showcases expertise in handling missing data and statistical modeling with clinical trial data. 
+
+Keywords: Academic project, Regression analysis, Clinical trial
+
+[View project on GitHub](https://github.com/tomrannosaurus/smoking_cessation_proj)​​​​​​​​​​​​​​​​
