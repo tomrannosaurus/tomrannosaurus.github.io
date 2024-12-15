@@ -11,14 +11,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-
+Education
+======
 * Sc.M. in Biostatistics, Brown University, 2025 (expected)
 * B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2012
 
-## Current Employment
-
-
+Current Employment
+======
 * Lead Data Scientist
   * Military Cardiovascular Outcomes Research (MiCOR), Uniformed Services University of the Health Sciences (USUHS) - Bethesda, MD
   * 2021-Present
@@ -107,7 +106,7 @@ Publications
 
 
 * Software Packages
-  * Robust Agile Detector (RAD_ECG) [Python software package](https://github.com/METIS-MICOR/rad_ecg). (2024).
+  * Robust Agile Detector (RAD_ECG) [Python software package]. (2024). Retrieved from https://github.com/METIS-MICOR/rad_ecg
   
   
 Presentations
