@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Resume"
+title: "Resume / CV"
 author_profile: true
 redirect_from: 
   - /about/
@@ -97,11 +97,14 @@ Publications
 
 * Posters
   * Goldstein RE, Hulten EA, **Arnold TB**, Thomas VM, Heroy A, Fox K, Lee H, Libbus J, Markos B, Hood M, Walker EN, Harrell TE, and Haigney MC. Stress Echo Exposes Impaired LV Function After Hospitalization For COVID-19. American Heart Association Scientific Sessions. Nov. 13, 2023.
+  
   * Heroy A, **Arnold TB**, Haigney MC.  Robust QRS Detection in 24-hour Ambulatory Single-Lead ECG. Military Health System Research Symposium. Aug. 15, 2023. [MHSRS-23-08550, Session 1, #357.](https://mhsrs.health.mil/SiteCollectionDocuments/MHSRS23_exhibithall_book_F.pdf)
+  
   * Murphy C, Saperstein A, Klusewitz S, Bartol K, Aun JA, Wessman D, **Arnold TB**, Symons JG, Goldstein RE, Needleman M, Franzos MA, Haigney MC.  Effective Cardiovascular Screening of Military Recruits Requires an Electrocardiogram. J Am Coll Cardiol. 2022;79(9_Supplement):1638-1638. doi: [10.1016/S0735-1097(22)02629-8](https://www.jacc.org/doi/full/10.1016/S0735-1097%2822%2902629-8)
 
 * Pre-Prints
   * Kerling D, Kisling A, Heroy A, **Arnold TB**, Haigney MC, Needleman M. The Impact of Leadless Pacemaker on the Development of Pacemaker induced Cardiomyopathy and Tricuspid Regurgitation, A Retrospective Analysis. *Authorea Preprints*. 2023. doi: [10.22541/au.169934048.80309821/v1](https://www.authorea.com/users/696741/articles/685105-the-impact-of-leadless-pacemaker-on-the-development-of-pacemaker-induced-cardiomyopathy-and-tricuspid-regurgitation-a-retrospective-analysis)
+  
   * Saunders D, **Arnold TB**, Lavender JM, Bi D, Alcover K, Hellwig LD, Leazer ST, Mohammed R, Markos B, Perera K, Shaw D, Kobi P, Evans M, Mains A, Tanofsky-Kraff M, Goguet E, Mitre E, Pratt KP, Dalgard CL, Haigney MC. Comparative Cohort Study of Post-Acute Covid-19 Infection with a Nested, Randomized Controlled Trial of Ivabradine for Those With Postural Orthostatic Tachycardia Syndrome. *medRxiv*. 2023.04.25.23289110. doi: [https://doi.org/10.1101/2023.04.25.23289110](https://doi.org/10.1101/2023.04.25.23289110)
 
 
