@@ -79,6 +79,10 @@ Past Employment
 Publications
 ======
 * Peer-Reviewed
+  * Saunders D, **Arnold TB**, Lavender JM, Bi D, Alcover K, Hellwig LD, Leazer ST, Mohammed R, Markos B, Perera K, Shaw D, Kobi P, Evans M, Mains A, Tanofsky-Kraff M, Goguet E, Mitre E, Pratt KP, Dalgard CL, Haigney MC. Comparative cohort study of post-acute COVID-19 infection with a nested, randomized controlled trial of ivabradine for those with postural orthostatic tachycardia syndrome (the COVIVA study). *Front Neurol*. 2025;7(16):1550636. doi: [10.3389/fneur.2025.1550636](https://doi.org/10.3389/fneur.2025.1550636)
+
+  * Walker LE, Jurick SM, Thomas V, **Arnold TB**, Elisman K, Kalra S, Mains S, Rioux S, Galarneau M, McCabe C, Lavender JM, Collen J, Haigney MC, Solhjoo S, Stewart IJ. A study protocol for determining the role of Sympathetic activity in Post-injury outcomes: Impact on sleep and caRdiovascular health InvesTigation (SPIRIT). *PLoS One*. 2025;20(7):e0321035. doi: [10.1371/journal.pone.0321035](https://doi.org/10.1371/journal.pone.0321035)
+
   * Goldstein RE, Hulten E, **Arnold TB**, Thomas VM, Heroy A, Walker EN, Fox K, Lee H, Libbus J, Marcos B, Hood MN, Harrell TE, Haigney MC. Exercise stress echocardiography shows impaired left ventricular function after hospitalization with COVID-19 without overt myocarditis: A pilot study. *Physiological Reports*. 2024 Dec;12(23):e70138. doi: [10.14814/phy2.70138](https://pubmed.ncbi.nlm.nih.gov/39606927/)
   
   * Gutierrez‐Colina AM, Aichele S, Lavender JM, Sanchez N, Thorstad IB, Gulley LD, Emerick JE, Schrag RB, Thomas VB, Spinner HB, **Arnold TB**, Heroy AM, Haigney MC, Tanofsky-Kraff M, Shomaker LB. Associations of social and cognitive‐behavioral variables with disinhibited eating and anxiety: An ecological momentary assessment study. *International Journal of Eating Disorders*. 2024;57(5):1213-1223. doi: [https://doi.org/10.1002/eat.24177](https://doi.org/10.1002/eat.24177)
@@ -97,6 +101,16 @@ Publications
 
 
 * Posters
+  * **Arnold TB**, Heroy A, Ehat N, Solhjoo S, Cachi-Delgado P, Paul AJ, Haigney M. Mixed and Irregular Frequency Models: Comparative Analysis with Healthcare Applications. Military Health System Research Symposium. Aug. 5, 2025.
+
+  * Heroy A, **Arnold TB**, Ehat N, Solhjoo S, Cachi-Delgado P, Haigney M. Anomaly Detection in 24-hour Ambulatory Single-Lead ECG. Military Health System Research Symposium. Aug. 5, 2025.
+
+  * Thompson K, Schrag R, Mains A, Rioux S, Thorstad I, Thomas V, Sinkford Z, **Arnold TB**, Klein D, Haigney M, Tanofsky-Kraff M, Lavender J. Development and Preliminary Validation of the Pressure to Lose Pregnancy-Related Weight Scale (PLPW) in U.S. Military Active-Duty Service Women. Annual Meeting of the Eating Disorder Research Society. Sept. 18, 2025.
+
+  * Cachi PG, Heroy A, **Arnold TB**, Ehat N, Haigney MC, Solhjoo S. Two-Dimensional Warping 2.0: A Fast, Accurate, and Robust ECG Segmentation Algorithm. International Society for Computerized Electrocardiology. March 23–27, 2025.
+
+  * Cachi PG, Heroy A, **Arnold TB**, Ehat N, Haigney MC, Solhjoo S. Leveraging Neuromorphic Computers to Model Cardiac Arrhythmias. Cardiac Arrhythmia Mechanisms, Gordon Research Conference. Feb. 23–28, 2025.
+
   * Goldstein RE, Hulten EA, **Arnold TB**, Thomas VM, Heroy A, Fox K, Lee H, Libbus J, Markos B, Hood M, Walker EN, Harrell TE, and Haigney MC. Stress Echo Exposes Impaired LV Function After Hospitalization For COVID-19. American Heart Association Scientific Sessions. Nov. 13, 2023.
   
   * Heroy A, **Arnold TB**, Haigney MC.  Robust QRS Detection in 24-hour Ambulatory Single-Lead ECG. Military Health System Research Symposium. Aug. 15, 2023. [MHSRS-23-08550, Session 1, #357.](https://mhsrs.health.mil/SiteCollectionDocuments/MHSRS23_exhibithall_book_F.pdf)
@@ -104,10 +118,13 @@ Publications
   * Murphy C, Saperstein A, Klusewitz S, Bartol K, Aun JA, Wessman D, **Arnold TB**, Symons JG, Goldstein RE, Needleman M, Franzos MA, Haigney MC.  Effective Cardiovascular Screening of Military Recruits Requires an Electrocardiogram. J Am Coll Cardiol. 2022;79(9_Supplement):1638-1638. doi: [10.1016/S0735-1097(22)02629-8](https://www.jacc.org/doi/full/10.1016/S0735-1097%2822%2902629-8)
 
 * Pre-Prints
-  * Kerling D, Kisling A, Heroy A, **Arnold TB**, Haigney MC, Needleman M. The Impact of Leadless Pacemaker on the Development of Pacemaker induced Cardiomyopathy and Tricuspid Regurgitation, A Retrospective Analysis. *Authorea Preprints*. 2023. doi: [10.22541/au.169934048.80309821/v1](https://www.authorea.com/users/696741/articles/685105-the-impact-of-leadless-pacemaker-on-the-development-of-pacemaker-induced-cardiomyopathy-and-tricuspid-regurgitation-a-retrospective-analysis)
-  
-  * Saunders D, **Arnold TB**, Lavender JM, Bi D, Alcover K, Hellwig LD, Leazer ST, Mohammed R, Markos B, Perera K, Shaw D, Kobi P, Evans M, Mains A, Tanofsky-Kraff M, Goguet E, Mitre E, Pratt KP, Dalgard CL, Haigney MC. Comparative Cohort Study of Post-Acute Covid-19 Infection with a Nested, Randomized Controlled Trial of Ivabradine for Those With Postural Orthostatic Tachycardia Syndrome. *medRxiv*. 2023.04.25.23289110. doi: [https://doi.org/10.1101/2023.04.25.23289110](https://doi.org/10.1101/2023.04.25.23289110)
+  * Edwards C, Ranzenhofer L, Lavender JM, Gulley L, Aichele SR, Thorstad I, Sanchez NC, Schrag R, Sinkford Z, Emerick J, Thomas V, **Arnold TB**, Young J, Wilfley DE, Haigney M, Shomaker LB, Tanofsky-Kraff M. A Multisite, Pilot and Feasibility Randomized Controlled Trial to Improve Cardiometabolic Health in Adolescent Girls with Elevated Anxiety. *ResearchGate Preprints*. 2025. doi: [10.2196/preprints.82781](https://doi.org/10.2196/preprints.82781)
 
+  * Kerling D, Kisling A, Heroy A, **Arnold TB**, Haigney MC, Needleman M. The Impact of Leadless Pacemaker on the Development of Pacemaker induced Cardiomyopathy and Tricuspid Regurgitation, A Retrospective Analysis. *Authorea Preprints*. 2023. doi: [10.22541/au.169934048.80309821/v1](https://www.authorea.com/users/696741/articles/685105-the-impact-of-leadless-pacemaker-on-the-development-of-pacemaker-induced-cardiomyopathy-and-tricuspid-regurgitation-a-retrospective-analysis)
+
+
+* Master's Thesis
+  * **Arnold TB**. Mixed and Irregular Frequency Models: Comparative Analysis with Healthcare Applications. Master's thesis. Brown University; 2025.
 
 * Software Packages
   * Robust Agile Detector (RAD_ECG) [Python software package]. (2024). Retrieved from https://github.com/METIS-MICOR/rad_ecg
@@ -115,6 +132,10 @@ Publications
   
 Presentations
 ======
+* Poster Presentation, Mixed and Irregular Frequency Models: Comparative Analysis with Healthcare Applications, Military Health System Research Symposium, 2025
+
+* Poster Presentation, Anomaly Detection in 24-hour Ambulatory Single-Lead ECG, Military Health System Research Symposium, 2025
+
 * Poster Presentation, Robust QRS Detection in 24-hour Ambulatory Single-Lead ECG, Military Health System Research Symposium, 2023
 
 * ECG Detector Project Presentation, MiCOR Program, USUHS, 2022
