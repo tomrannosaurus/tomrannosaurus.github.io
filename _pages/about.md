@@ -13,7 +13,8 @@ redirect_from:
 
 Education
 ======
-* Sc.M. in Biostatistics, Brown University, 2025 (expected)
+* Ph.D. in Data Science, Worcester Polytechnic Institute, 2025–Present
+* Sc.M. in Biostatistics, Brown University, 2025
 * B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2012
 
 Current Employment
@@ -145,9 +146,13 @@ Educational Activities
 
 Honors & Awards
 ======
-* Todd ’87 and Christine Fisher P’17 Graduate Fellowship in Public Health
+* Delta Omega (Public Health Honor Society)
+  * Epsilon Iota Chapter, Brown University
+  * Inducted Spring 2025
+
+* Todd ‘87 and Christine Fisher P’17 Graduate Fellowship in Public Health
   * Brown University, Department of Biostatistics
-  * Fall 2023–Spring 2024
+  * Fall 2023–Spring 2025
   
 * HHMI Undergraduate Summer Research Fellowship
   * Del Negro Lab, College of William & Mary, Dept. of Applied Science
