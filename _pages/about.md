@@ -19,8 +19,15 @@ Education
 
 Current Employment
 ======
-[INSERT WPI TA for FALL 25 to Present]
-[INSERT Consulting Data Scientist from end of Lead Data Scientist to Present]
+* Teaching Assistant
+  * Worcester Polytechnic Institute, Dept. of Data Science - Worcester, MA
+  * Fall 2025-Present
+  * Teaching assistant for Department of Data Science coursework.
+
+* Consulting Data Scientist
+  * Military Cardiovascular Outcomes Research (MiCOR), Uniformed Services University of the Health Sciences (USUHS) - Bethesda, MD
+  * August 2025-Present
+  * Consult on data analysis in biomedical and psychology studies; contribute to data science and machine learning projects; support University-wide data science/machine learning interest group.
 
 Past Employment
 ======
@@ -160,7 +167,7 @@ Presentations
 Educational Activities
 ======
 * Member, Biostatistics/CSS Diversity and Inclusion Committee
-  * Brown University, 2023-Present
+  * Brown University, 2023-2025
 
 * Co-Chair, CCD Big Data/Machine Learning Interest Group
   * USUHS, 2020-Present
