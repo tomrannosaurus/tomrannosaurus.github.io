@@ -1,8 +1,10 @@
 ---
 title: "Explaining VASC: VAE for Single-Cell RNA Sequencing"
-excerpt: "Deep learning approach to dimension reduction for sparse single-cell RNA-seq data using variational autoencoders"
+excerpt: "<img src='/images/vasc-architecture.jpg'><br/><br/>Deep learning approach to dimension reduction for sparse single-cell RNA-seq data using variational autoencoders"
 collection: portfolio
 ---
+
+![VASC latent space t-SNE](/images/vasc-tsne.png)
 
 This project explores VASC, a dimension reduction method for single-cell RNA sequencing (scRNA-seq) data that uses variational autoencoders (VAEs) to handle the high sparsity and dropout events common in these datasets. Unlike traditional methods such as PCA, t-SNE, or ZIFA, VASC incorporates a zero-inflation (ZI) layer that explicitly models dropout events via a Gumbel-Softmax distribution, allowing the network to distinguish true biological zeros from technical noise.
 
