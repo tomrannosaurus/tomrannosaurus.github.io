@@ -14,23 +14,26 @@ redirect_from:
 Education
 ======
 * Ph.D. in Data Science, Worcester Polytechnic Institute, 2025–Present
-* Sc.M. in Biostatistics, Brown University, 2025
-* B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2012
+* Sc.M. in Biostatistics, Brown University, 2023-2025
+* B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2008-2012
 
 Current Employment
 ======
+[INSERT WPI TA for FALL 25 to Present]
+[INSERT Consulting Data Scientist from end of Lead Data Scientist to Present]
+
+Past Employment
+======
 * Lead Data Scientist
   * Military Cardiovascular Outcomes Research (MiCOR), Uniformed Services University of the Health Sciences (USUHS) - Bethesda, MD
-  * 2021-Present
+  * 2021-August 2025
   * Lead top-to-bottom analysis in a wide variety of biomedical and psychology studies; manage team of data scientists; design the program's data capture and analysis in over a dozen projects; give trainings and presentations to various laboratories within the University; co-lead a University-wide data science/machine learning interest group.
   
 * Research Assistant to Dr. Alice J. Paul
   * Brown University, Dept. of Biostatistics - Providence, RI
-  * August 2024-Present
+  * Fall 2024-Spring 2025
   * Editing and contributing to textbook, including by: reviewing problem solutions; proofing for clarity, consistency, and content; and assisting with programmatic rendering for multiple environments, including publication and classroom use in Jupyter Notebooks.
 
-Past Employment
-======
 * Database Consultant
   * Suicide CPR Initiative, USUHS - Bethesda, MD
   * 2021-2022
