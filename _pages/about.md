@@ -89,9 +89,19 @@ Past Employment
 Publications
 ======
 * Peer-Reviewed
+  * Thompson KA, Schrag R, Mains A, Rioux S, Fox K, Thorstad I, **Arnold TB**, Thomas V, Sinkford Z, Thalheimer A-R, Klein D, Haigney M, Tanofsky-Kraff M, Lavender JM. Development and preliminary validation of the Pressure To Lose Pregnancy-related Weight scale (PLPW) in U.S. military active-duty Service women. *Body Image*. 2026;57:102091. doi: [10.1016/j.bodyim.2026.102091](https://doi.org/10.1016/j.bodyim.2026.102091)
+
+  * Perera K, Baker J, Jayanatha K, Pickering K, Cutfield R, Orr-Walker BJ, Sundborn G, Heroy A, **Arnold TB**, Yu D, Simmons D. Ethnic differences in risk of renal disease progression amongst young-onset type 2 diabetes in New Zealand. *Diabetes Res Clin Pract*. 2026;231:113018. doi: [10.1016/j.diabres.2025.113018](https://doi.org/10.1016/j.diabres.2025.113018)
+
   * Saunders D, **Arnold TB**, Lavender JM, Bi D, Alcover K, Hellwig LD, Leazer ST, Mohammed R, Markos B, Perera K, Shaw D, Kobi P, Evans M, Mains A, Tanofsky-Kraff M, Goguet E, Mitre E, Pratt KP, Dalgard CL, Haigney MC. Comparative cohort study of post-acute COVID-19 infection with a nested, randomized controlled trial of ivabradine for those with postural orthostatic tachycardia syndrome (the COVIVA study). *Front Neurol*. 2025;7(16):1550636. doi: [10.3389/fneur.2025.1550636](https://doi.org/10.3389/fneur.2025.1550636)
 
   * Walker LE, Jurick SM, Thomas V, **Arnold TB**, Elisman K, Kalra S, Mains S, Rioux S, Galarneau M, McCabe C, Lavender JM, Collen J, Haigney MC, Solhjoo S, Stewart IJ. A study protocol for determining the role of Sympathetic activity in Post-injury outcomes: Impact on sleep and caRdiovascular health InvesTigation (SPIRIT). *PLoS One*. 2025;20(7):e0321035. doi: [10.1371/journal.pone.0321035](https://doi.org/10.1371/journal.pone.0321035)
+
+  * Sanders T, Murphy C, Davis G, Aspinwall C, Theriot L, McVicker C, **Arnold TB**. Comparison of Crotalidae Immune F(ab')2 (Equine) and Crotalidae Polyvalent Immune Fab (Ovine) at Establishing Control of Initial Envenomation Symptoms in Louisiana Agkistrodon Envenomations. *J Med Toxicol*. 2025;21(4):377-385. doi: [10.1007/s13181-025-01093-6](https://doi.org/10.1007/s13181-025-01093-6)
+
+  * Cachi PG, Heroy A, **Arnold TB**, Ehat N, Haigney MC, Solhjoo S. Two-dimensional warping 2.0: A fast, accurate, and robust ECG segmentation algorithm. *J Electrocardiol*. 2025;91:154000. doi: [10.1016/j.jelectrocard.2025.154000](https://doi.org/10.1016/j.jelectrocard.2025.154000)
+
+  * Saunders D, Hellwig LD, Pagani A, De Castro M, Haigney M, Poon L, Ehat N, Heroy A, Libbus J, Fox K, Kalra S, **Arnold TB**, Turner C, Black JL, Scherer SE, Moyer AM. Comparing the clinical utility of pharmacogenomic genotyping and next generation sequencing in a military health system adult medicine clinic. *Pharmacogenomics*. 2025;25(16-18):637-645. doi: [10.1080/14622416.2025.2466413](https://doi.org/10.1080/14622416.2025.2466413)
 
   * Goldstein RE, Hulten E, **Arnold TB**, Thomas VM, Heroy A, Walker EN, Fox K, Lee H, Libbus J, Marcos B, Hood MN, Harrell TE, Haigney MC. Exercise stress echocardiography shows impaired left ventricular function after hospitalization with COVID-19 without overt myocarditis: A pilot study. *Physiological Reports*. 2024 Dec;12(23):e70138. doi: [10.14814/phy2.70138](https://pubmed.ncbi.nlm.nih.gov/39606927/)
   
@@ -107,6 +117,8 @@ Publications
   
   
 * Abstracts
+  * Cachi PG, Heroy A, **Arnold TB**, Ehat N, Haigney MC, Solhjoo S. Enhanced Two Dimensional Warping For Fast, Accurate, and Robust Segmentation of Continuous Ambulatory ECG Recordings. *Circulation*. 2025.
+
   * Goldstein RE, Hulten EA, **Arnold TB**, Thomas VM, Walker EN, Fox K, Lee H, Libbus J, Markos B, Hood M, Harrell TE, & Haigney MC. Abstract 12142: Treadmill Exercise Stress Echocardiography Exposes Impaired Left Ventricular Function in Patients Recovering From Hospitalization for COVID-19 versus Historical Controls. *Circulation*. 2023;148 (Suppl_1). doi: [https://doi.org/10.1161/circ.148.suppl_1.12142](https://www.ahajournals.org/doi/10.1161/circ.148.suppl_1.12142)
 
 
@@ -116,6 +128,8 @@ Publications
   * Heroy A, **Arnold TB**, Ehat N, Solhjoo S, Cachi-Delgado P, Haigney M. Anomaly Detection in 24-hour Ambulatory Single-Lead ECG. Military Health System Research Symposium. Aug. 5, 2025.
 
   * Thompson K, Schrag R, Mains A, Rioux S, Thorstad I, Thomas V, Sinkford Z, **Arnold TB**, Klein D, Haigney M, Tanofsky-Kraff M, Lavender J. Development and Preliminary Validation of the Pressure to Lose Pregnancy-Related Weight Scale (PLPW) in U.S. Military Active-Duty Service Women. Annual Meeting of the Eating Disorder Research Society. Sept. 18, 2025.
+
+  * Edwards C, Tanofsky-Kraff M, Razenhofer L, Lavender JM, Gulley LD, Aichele S, Sanchez N, Schrag R, Sinkford Z, Emerick J, Thomas V, **Arnold TB**, Young JF, Wilfley DE, Haigney M, Shomaker LB. Pilot and Feasibility Trial to Improve Cardiometabolic Health in Adolescent Girls with Anxiety. ObesityWeek. Nov. 1, 2025. *OBESITY*. 2025;33:105.
 
   * Cachi PG, Heroy A, **Arnold TB**, Ehat N, Haigney MC, Solhjoo S. Two-Dimensional Warping 2.0: A Fast, Accurate, and Robust ECG Segmentation Algorithm. International Society for Computerized Electrocardiology. March 23–27, 2025.
 
@@ -128,7 +142,7 @@ Publications
   * Murphy C, Saperstein A, Klusewitz S, Bartol K, Aun JA, Wessman D, **Arnold TB**, Symons JG, Goldstein RE, Needleman M, Franzos MA, Haigney MC.  Effective Cardiovascular Screening of Military Recruits Requires an Electrocardiogram. J Am Coll Cardiol. 2022;79(9_Supplement):1638-1638. doi: [10.1016/S0735-1097(22)02629-8](https://www.jacc.org/doi/full/10.1016/S0735-1097%2822%2902629-8)
 
 * Pre-Prints
-  * Edwards C, Ranzenhofer L, Lavender JM, Gulley L, Aichele SR, Thorstad I, Sanchez NC, Schrag R, Sinkford Z, Emerick J, Thomas V, **Arnold TB**, Young J, Wilfley DE, Haigney M, Shomaker LB, Tanofsky-Kraff M. A Multisite, Pilot and Feasibility Randomized Controlled Trial to Improve Cardiometabolic Health in Adolescent Girls with Elevated Anxiety. *ResearchGate Preprints*. 2025. doi: [10.2196/preprints.82781](https://doi.org/10.2196/preprints.82781)
+  * Edwards C, Ranzenhofer L, Lavender JM, Gulley LD, Aichele S, Thorstad I, Sanchez N, Schrag R, Sinkford Z, Emerick J, Thomas V, **Arnold TB**, Young JF, Wilfley DE, Haigney M, Shomaker LB, Tanofsky-Kraff M. A Web-Based Multisite, Pilot and Feasibility Randomized Controlled Trial to Improve Cardiometabolic Health in Adolescent Girls with Elevated Anxiety. Under revision at *JMIR Cardio*, as of April 16, 2026.
 
   * Kerling D, Kisling A, Heroy A, **Arnold TB**, Haigney MC, Needleman M. The Impact of Leadless Pacemaker on the Development of Pacemaker induced Cardiomyopathy and Tricuspid Regurgitation, A Retrospective Analysis. *Authorea Preprints*. 2023. doi: [10.22541/au.169934048.80309821/v1](https://www.authorea.com/users/696741/articles/685105-the-impact-of-leadless-pacemaker-on-the-development-of-pacemaker-induced-cardiomyopathy-and-tricuspid-regurgitation-a-retrospective-analysis)
 
