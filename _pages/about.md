@@ -15,7 +15,7 @@ Education
 ======
 * <img class="institution-logo" src="{{ base_path }}/images/institutions/wpi-logo.png" alt="Worcester Polytechnic Institute logo"> Ph.D. in Data Science, Worcester Polytechnic Institute, 2025–Present
 * <img class="institution-logo" src="{{ base_path }}/images/institutions/brown-logo.svg" alt="Brown University logo"> Sc.M. in Biostatistics, Brown University, 2023-2025
-* <img class="institution-logo" src="{{ base_path }}/images/institutions/william-mary-logo.jpg" alt="William & Mary logo"> B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2008-2012
+* <img class="institution-logo" src="{{ base_path }}/images/institutions/william-mary-logo.svg" alt="William & Mary logo"> B.A. in Economics; Program in Pre-Medicine/Pre-Medical Studies, College of William & Mary, 2008-2012
 
 Current Employment
 ======
