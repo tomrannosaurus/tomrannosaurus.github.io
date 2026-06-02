@@ -183,6 +183,13 @@ Presentations
 
 * REDCap Demonstration, PURIFY-OBS-1 Team, Multi-Center, 2020
 
+Mentoring
+======
+* Research Mentor
+  * NSF REU Site: Applied Artificial Intelligence for Advanced Applications, Worcester Polytechnic Institute - Worcester, MA
+  * Summer 2026
+  * Mentor a team of NSF-sponsored REU students on a machine learning project to predict and explain food contamination, including LLM-based assistants.
+
 Professional Service
 ======
 * Member, Biostatistics/CSS Diversity and Inclusion Committee
