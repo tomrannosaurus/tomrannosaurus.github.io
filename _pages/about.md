@@ -24,11 +24,6 @@ Current Employment
   * Spring 2026-Present
   * Conduct machine learning and deep learning research spanning a broad range of methods, with a primary focus on time series modeling of irregular- and mixed-frequency, sparse, and partially observed data from difficult, real-world environments.
 
-* Teaching Assistant
-  * Worcester Polytechnic Institute, Dept. of Data Science - Worcester, MA
-  * Fall 2025-Present
-  * Teaching assistant for Department of Data Science coursework.
-
 * Consulting Data Scientist
   * Military Cardiovascular Outcomes Research (MiCOR), Uniformed Services University of the Health Sciences (USUHS) - Bethesda, MD
   * August 2025-Present
@@ -36,6 +31,11 @@ Current Employment
 
 Past Employment
 ======
+* Teaching Assistant
+  * Worcester Polytechnic Institute, Dept. of Data Science - Worcester, MA
+  * Fall 2025
+  * Teaching assistant for Department of Data Science coursework.
+
 * Lead Data Scientist
   * Military Cardiovascular Outcomes Research (MiCOR), Uniformed Services University of the Health Sciences (USUHS) - Bethesda, MD
   * 2021-August 2025
