@@ -178,7 +178,7 @@ Presentations
 
 * REDCap Demonstration, PURIFY-OBS-1 Team, Multi-Center, 2020
 
-Educational Activities
+Professional Service
 ======
 * Member, Biostatistics/CSS Diversity and Inclusion Committee
   * Brown University, 2023-2025
