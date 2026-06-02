@@ -19,6 +19,11 @@ Education
 
 Current Employment
 ======
+* Research Assistant to Prof. Fabricio Murai
+  * Worcester Polytechnic Institute, Dept. of Data Science - Worcester, MA
+  * Spring 2026-Present
+  * Conduct machine learning and deep learning research spanning a broad range of methods, with a primary focus on time series modeling of irregular- and mixed-frequency, sparse, and partially observed data from difficult, real-world environments.
+
 * Teaching Assistant
   * Worcester Polytechnic Institute, Dept. of Data Science - Worcester, MA
   * Fall 2025-Present
