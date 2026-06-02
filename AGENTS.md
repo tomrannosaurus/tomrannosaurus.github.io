@@ -11,7 +11,7 @@ This repo **is the owner's public CV / personal website** — a Jekyll site (Aca
 - **Only commit or push when the owner asks.**
 
 ## Where the CV lives
-- `_pages/about.md` — the CV itself (permalink `/`). Sections, in order: Education · Current Employment · Past Employment · Publications · Presentations · Professional Service · Honors & Awards.
+- `_pages/about.md` — the CV itself (permalink `/`). Sections, in order: Education · Current Employment · Past Employment · Publications · Presentations · Mentoring · Professional Service · Honors & Awards.
 - Infrastructure — don't break: `_config.yml`, `_data/`, `_includes/`, `_layouts/`, `_sass/`, and the YAML front matter (the `---` block atop each page; it sets the permalink/redirects and drives the build). `_drafts/` is unpublished template content.
 - Local preview: `bundle exec jekyll serve` (see `Gemfile`; a `Dockerfile` is also provided).
 
