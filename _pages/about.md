@@ -189,6 +189,9 @@ Educational Activities
 * Abstract Reviewer, Session on AI/ML in Military Medicine
   * Military Health System Research Symposium, 2023
 
+* Sub-reviewer (for Prof. Fabricio Murai)
+  * SIAM International Conference on Data Mining (SDM), 2026
+
 Honors & Awards
 ======
 * Delta Omega (Public Health Honor Society)
